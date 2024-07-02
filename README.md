@@ -1,4 +1,4 @@
-- Live link : https://dragon-news-resourecs.web.app
+## Live link : https://dragon-news-resourecs.web.app
 
 
 - Implemented Email and Password Authentication for secure user login and registration.
